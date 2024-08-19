@@ -10,4 +10,4 @@ Eu gosto de expressar minha criatividade, achar soluções para problemas e tran
 ### 💬 Vamos conversar :)
 Me mande uma mensagem em meu [LinkedIn](https://www.linkedin.com/in/isabela-ramos-teixeira/) ou através de meu e-mail: isabelaramos.dev@gmail.com
 
-💻 Portfólio com alguns de meus projetos: [link](https://isabelaramos.vercel.app/)
+💻 Portfólio com alguns de meus projetos: [link](https://isabelaramos.vercel.app)
